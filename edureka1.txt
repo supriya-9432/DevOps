@@ -19,3 +19,13 @@ to link all local repo to remote we use -- git remote add <github link of repo>
 to check local repo is linked to remote or not we use -- git remote -v command
 
 to push all changes from local to remote repo  we use -- git push origin master means alise of remote repo and branch name 
+
+to merge another branch we use -- git merge <branch name>
+
+to show all files names changes in particular branch we use -- git ls-files
+
+git rebase master-- it is used when changes mades in one branch needs to reflected in another branch.
+
+for archive your repo we use -- git archive master --format=zip - means --to archive your local repo to shared someone in zip formate
+
+to show uncommited changes we use -- git stash and git status apply
