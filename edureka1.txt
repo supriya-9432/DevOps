@@ -15,3 +15,7 @@ to show logs of commit we use -- git log
 to show all commit in file we use -- git show initial id eg-- git show c9cc2161e0a46c3a306b7a1f9a1c58aa08accd76
 
 to link all local repo to remote we use -- git remote add <github link of repo>
+
+to check local repo is linked to remote or not we use -- git remote -v command
+
+to push all changes from local to remote repo  we use -- git push origin master means alise of remote repo and branch name 
