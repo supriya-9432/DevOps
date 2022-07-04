@@ -13,3 +13,5 @@ to commit local directry we use -- git commit -m "commiting my first file edurek
 to show logs of commit we use -- git log
 
 to show all commit in file we use -- git show initial id eg-- git show c9cc2161e0a46c3a306b7a1f9a1c58aa08accd76
+
+to link all local repo to remote we use -- git remote add <github link of repo>
