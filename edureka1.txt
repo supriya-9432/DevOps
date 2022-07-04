@@ -1,0 +1,10 @@
+to initalize any project first add git init command
+
+to show status of all changes we use --git status command
+
+to config username we use --> git config --global user.name "supriya-9432"
+
+to config useremail we use-- >git config --global user.email "supriya.dubey@headstrait.com"
+
+using command --git add edureka1.txt to move working directry to remote directry
+
