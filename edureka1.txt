@@ -8,3 +8,8 @@ to config useremail we use-- >git config --global user.email "supriya.dubey@head
 
 using command --git add edureka1.txt to move working directry to remote directry
 
+to commit local directry we use -- git commit -m "commiting my first file edureka1.txt"
+
+to show logs of commit we use -- git log
+
+to show all commit in file we use -- git show initial id eg-- git show c9cc2161e0a46c3a306b7a1f9a1c58aa08accd76
